@@ -21,3 +21,4 @@ seaborn
 plotly
 seaborn
 kaleido
+streamlit
