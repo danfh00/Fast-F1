@@ -9,6 +9,7 @@ exp*.py
 
 # environments for development and local test runs
 venv/
+.venv/
 act/
 .actrc
 
